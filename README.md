@@ -1,2 +1,6 @@
-#Criação de repositório para aprendizado no git/Github
-Desafio de projeto sobre git/github
+# Repositório do desafio de projeto sobre git/github
+Desafio de projeto sobre Git/Github
+
+## Links Uteis: Sintaxe da linguagem Markdown
+https://www.markdownguide.org/
+
